@@ -6,7 +6,7 @@ const Welcome = (props) => {
     return (
         <div className="container">
             <div className="Fitness-User-Info">
-                <h1>Hello {props.name}</h1>
+                <h1>Hello {props.name}!</h1>
                 <p>Let´s workout to get someone gains!</p>
             </div>
         </div>    
